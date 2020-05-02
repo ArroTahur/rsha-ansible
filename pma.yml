@@ -1,0 +1,7 @@
+---
+
+- hosts: webservers
+  tasks:
+  
+  - name: phpmyadmin installimine
+    apt: name=phpmyadmin update_cache=no state=latest
