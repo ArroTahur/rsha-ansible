@@ -1,16 +1,17 @@
 # RSHA-ANSIBLE automatiseeritud skriptid
 
-## Repositooriumis on üles laetud järgmiste pakettide/teenuste installeerimisek$
+## Repositooriumis on üles laetud järgmiste pakettide/teenuste
+installeerimiseks mõeldud skriptid ##
 
-**Apache2**
+**Apache2;**
 
-**PHP ning vajalikud paketid**
+**PHP koos lisadega;**
 
-**MySQL**
+**MySQL;**
 
-**PhpMyAdmin**
+**PhpMyAdmin;**
 
-**Wordpress**
+**Wordpress;**
 
 # GIT installeerimine
 
